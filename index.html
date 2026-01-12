@@ -1,75 +1,144 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <title>Dimas03 • Developer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<title>Dimas03 — Developer</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
-    body {
-      min-height: 100vh;
-      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-    }
-
-    .card {
-      background: rgba(255,255,255,0.08);
-      backdrop-filter: blur(12px);
-      padding: 40px;
-      border-radius: 20px;
-      text-align: center;
-      max-width: 420px;
-      box-shadow: 0 20px 50px rgba(0,0,0,.4);
-      animation: fade 1.2s ease;
-    }
-
-    h1 {
-      font-size: 2.2em;
-      margin-bottom: 10px;
-    }
-
-    p {
-      opacity: .85;
-      margin-bottom: 25px;
-    }
-
-    a {
-      display: inline-block;
-      margin: 6px;
-      padding: 12px 22px;
-      border-radius: 30px;
-      background: #00c6ff;
-      color: #000;
-      text-decoration: none;
-      font-weight: 600;
-      transition: .3s;
-    }
-
-    a:hover {
-      transform: translateY(-3px);
-      background: #00f2fe;
-    }
-
-    @keyframes fade {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-  </style>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif}
+body{
+  background:#0f172a;
+  color:#e5e7eb;
+  line-height:1.6;
+}
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:40px 20px;
+}
+.hero{
+  text-align:center;
+  padding:80px 20px;
+}
+.hero h1{
+  font-size:3rem;
+  font-weight:600;
+}
+.hero span{
+  color:#38bdf8;
+}
+.hero p{
+  margin:20px 0;
+  color:#9ca3af;
+}
+.btn{
+  display:inline-block;
+  padding:12px 26px;
+  background:#38bdf8;
+  color:#020617;
+  border-radius:30px;
+  text-decoration:none;
+  font-weight:600;
+  margin:5px;
+}
+.section{
+  margin-top:80px;
+}
+.section h2{
+  text-align:center;
+  font-size:2rem;
+  margin-bottom:40px;
+}
+.about,.skills,.projects{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:30px;
+}
+.card{
+  background:#020617;
+  padding:25px;
+  border-radius:16px;
+}
+.skill{
+  display:inline-block;
+  padding:8px 16px;
+  margin:6px;
+  background:#020617;
+  border-radius:20px;
+  font-size:.9rem;
+}
+.project{
+  background:#020617;
+  padding:25px;
+  border-radius:16px;
+}
+.footer{
+  text-align:center;
+  padding:40px 0;
+  color:#64748b;
+}
+</style>
 </head>
 
 <body>
-  <div class="card">
-    <h1>👋 Dimas03</h1>
-    <p>Developer • Bot Creator • Web Builder</p>
 
-    <a href="https://github.com/dimas03-max" target="_blank">GitHub</a>
-    <a href="https://t.me/USERNAMEKAMU" target="_blank">Telegram</a>
-    <a href="https://wa.me/628XXXXXXXXXX" target="_blank">WhatsApp</a>
+<div class="hero">
+  <h1>Hi, I'm <span>Dimas03</span></h1>
+  <p>Bot Developer • Web Builder • Automation Enthusiast</p>
+  <a class="btn" href="https://wa.me/628XXXXXXXXXX">WhatsApp</a>
+  <a class="btn" href="https://t.me/USERNAMEKAMU">Telegram</a>
+</div>
+
+<div class="container">
+
+  <div class="section">
+    <h2>About Me</h2>
+    <div class="about">
+      <div class="card">
+        <p>
+          Saya developer yang fokus pada pembuatan bot Telegram, web landing page,
+          dan automation tools. Terbiasa membuat solusi cepat, ringan, dan scalable.
+        </p>
+      </div>
+    </div>
   </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="card">
+        <span class="skill">Python</span>
+        <span class="skill">Telegram Bot</span>
+        <span class="skill">HTML</span>
+        <span class="skill">CSS</span>
+        <span class="skill">JavaScript</span>
+        <span class="skill">Automation</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="project">
+        <h3>Telegram Bot Downloader</h3>
+        <p>Bot Telegram untuk download video & audio dari berbagai platform.</p>
+      </div>
+      <div class="project">
+        <h3>Landing Page Generator</h3>
+        <p>Template landing page modern siap deploy di GitHub Pages.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="footer">
+  © 2026 Dimas03 — Built with GitHub Pages
+</div>
+
 </body>
 </html>
