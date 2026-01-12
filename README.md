@@ -101,29 +101,11 @@ Saya developer yang fokus membangun **bot, automation, dan web system** dengan p
 
 👇 Scroll ke bawah untuk lihat repository
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Hubungi Saya
 
 <p align="center">
-  <a href="https://t.me/USERNAME_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://wa.me/628XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/Youidiot003"><img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/6283853467110"><img src="https://img.shields.io/badge/WhatsApp-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
