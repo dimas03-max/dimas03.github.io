@@ -1,15 +1,68 @@
-# 💫 About Me:
-🛠️ I'm currently working on<br>Building automation systems, Telegram bots, and web tools that focus on efficiency, stability, and user experience. I design each project to be ready for real-world use, not just a demo.<br>🤝 I'd love to collaborate on<br>Projects that combine human creativity and AI intelligence — from web apps and bots to automated systems that have immediate impact and scale.<br>📑 I'm looking for help with<br>System architecture optimization, smarter AI workflows, and exploring new technologies to keep my solutions relevant and current.<br>🌱 I'm currently studying<br>advanced automation, AI integration, system design, and how to adapt quickly to rapidly evolving technologies without losing my humanity.<br>💬 Ask me about<br>Automation, Telegram Bots, Web Development, AI tools, productive workflows, and how to collaborate with AI without fear of losing human agency.<br>⚡ Interesting fact<br>I believe AI is not the enemy.<br>While many people fear AI taking jobs, I choose to collaborate with AI — because the future isn't about humans vs. AI, but humans + AI 🚀
+# 👋 Welcome — Human × AI Collaboration Space
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:16a34a&height=180&section=header&text=Human%20×%20AI%20Developer&fontSize=36&fontColor=ffffff" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dimaschyrzn) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=22c55e&center=true&vCenter=true&width=700&lines=Automation+Builder;Telegram+Bot+Architect;Web+System+Engineer;Human+%C3%97+AI+Collaboration+Advocate" />
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+---
+
+## 💫 About Me
+🛠️ **Currently working on**  
+Building automation systems, Telegram bots, and production-ready web tools focused on efficiency, stability, and real-world usability.
+
+🤝 **Open to collaborate on**  
+Projects where **human creativity and AI intelligence** work together to create scalable, impactful systems.
+
+📑 **Looking for help with**  
+System architecture optimization, smarter AI workflows, and continuous adaptation to emerging technologies.
+
+🌱 **Currently learning**  
+Advanced automation, AI integration, system design, and how to evolve with technology **without losing human judgment**.
+
+💬 **Ask me about**  
+Automation, Telegram Bots, Web Development, AI-assisted workflows, and building systems that last.
+
+⚡ **Belief**  
+AI is not the enemy.  
+The future is not *human vs AI* —  
+it’s **human + AI** 🚀
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href="https://www.instagram.com/dimaschyrzn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=22c55e" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack (God Mode)
+
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk)
+![Bash](https://img.shields.io/badge/Bash-020617?style=for-the-badge&logo=gnu-bash)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js)
+
+### ⚙️ Backend & Automation
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-020617?style=for-the-badge&logo=telegram)
+
+---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dimas03-max&theme=shadow_green&hide_border=true" />
 </p>
@@ -26,5 +79,72 @@
   <img src="https://visitcount.itsvg.in/api?id=dimas03-max&icon=0&color=0" />
 </p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Human × AI Collaboration Philosophy
+
+> **AI is not a replacement.  
+AI is an amplifier.**
+
+AI helps me:
+- Explore ideas faster
+- Optimize logic
+- Detect blind spots
+
+Humans decide:
+- Architecture
+- Ethics
+- Creativity
+- Final direction
+
+> The strongest systems are built by  
+> humans who know **how to collaborate with AI**.
+
+---
+
+## 🚀 Learning Path — Zero to God Tier
+
+**Foundation → Builder → Architect → God Mode**
+
+- Programming logic
+- Automation & bots
+- System design
+- AI-assisted engineering
+- Scalable production systems
+
+> Master fundamentals.  
+> Adapt faster than trends.
+
+---
+
+## 🧪 Selected Projects
+
+🤖 **Telegram Automation Systems**  
+🌐 **Professional Web & Landing Pages**  
+⚙️ **Reusable Automation Scripts**
+
+Each project solves **real problems**, not theory.
+
+---
+
+## 🎥 Dark Visual Signature
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧠 Final Message
+
+Most people fear AI.
+
+I collaborate with it.
+
+Because the future belongs to those who  
+**build with intelligence — not against it**.
+
+<p align="center">
+  <b>Human × AI</b><br>
+  Collaboration over competition.
+</p>
