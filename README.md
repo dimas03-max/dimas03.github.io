@@ -127,7 +127,7 @@ Each project solves **real problems**, not theory.
 
 ---
 
-## 🎥 Dark Visual Signature
+## 🎥 Visual Signature
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
